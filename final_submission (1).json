@@ -1,0 +1,37 @@
+[
+    {
+        "company": "Microsoft",
+        "metric": "revenue",
+        "value": "$88 billion",
+        "period": "2023",
+        "section": "MD&A"
+    },
+    {
+        "company": "Microsoft",
+        "metric": "revenue",
+        "value": "$1 billion",
+        "period": "2023",
+        "section": "MD&A"
+    },
+    {
+        "company": "Microsoft",
+        "metric": "revenue",
+        "value": "$5 billion",
+        "period": "2023",
+        "section": "MD&A"
+    },
+    {
+        "section": "Financial Statements",
+        "table_type": "Balance Sheet",
+        "rows": [
+            {
+                "item": "Total Assets",
+                "value": "411,976"
+            },
+            {
+                "item": "Total Liabilities",
+                "value": "205,753"
+            }
+        ]
+    }
+]
