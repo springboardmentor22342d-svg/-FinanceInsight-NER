@@ -26,12 +26,15 @@ Extract structured financial insights from 10-K/10-Q reports using custom-traine
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/financial-ner-extraction.git
+git clone https://github.com/DevilsBreath/financial-ner-extraction.git
 cd financial-ner-extraction
 
 # Create virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate
+
+# On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
