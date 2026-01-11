@@ -1,0 +1,13 @@
+kaggle
+datasets
+yfinance
+pandas
+numpy
+requests
+beautifulsoup4
+tqdm
+lxml
+pdfplumber
+matplotlib
+wordcloud
+spacy

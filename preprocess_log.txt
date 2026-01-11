@@ -1,0 +1,29 @@
+Preprocess log
+
+--- Processing: data.csv ---
+read ok with encoding: utf-8 | shape: (5842, 2)
+Detected text column: Sentence
+✅ saved cleaned file: C:\FinanceInsight\data\processed\data_clean.csv | cleaned column: clean_text
+
+--- Processing: data_sources.csv ---
+read ok with encoding: utf-8 | shape: (9, 4)
+Detected text column: description
+✅ saved cleaned file: C:\FinanceInsight\data\processed\data_sources_clean.csv | cleaned column: clean_text
+
+--- Processing: Financial Statements.csv ---
+read ok with encoding: utf-8 | shape: (161, 23)
+No single text column detected → using combined_text (all object columns concatenated).
+✅ saved cleaned file: C:\FinanceInsight\data\processed\Financial Statements_clean.csv | cleaned column: clean_text
+note: cleaned from combined_text (multiple columns merged).
+
+--- Processing: financial_news_events.csv ---
+read ok with encoding: utf-8 | shape: (3024, 12)
+Detected text column: Headline
+✅ saved cleaned file: C:\FinanceInsight\data\processed\financial_news_events_clean.csv | cleaned column: clean_text
+
+--- Processing: press_release_2003.csv ---
+read ok with encoding: cp1252 | shape: (481, 5)
+Detected text column: pr_title
+✅ saved cleaned file: C:\FinanceInsight\data\processed\press_release_2003_clean.csv | cleaned column: clean_text
+
+Done processing all files.
