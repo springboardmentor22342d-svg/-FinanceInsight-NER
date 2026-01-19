@@ -1,0 +1,7 @@
+{
+  "EPS": ["EPS", "earnings per share"],
+  "REVENUE": ["revenue", "sales"],
+  "REVENUE_GROWTH": ["revenue growth", "sales growth"],
+  "MARKET_CAP": ["market cap", "market capitalization"],
+  "STOCK_PRICE": ["stock price", "share price"]
+}

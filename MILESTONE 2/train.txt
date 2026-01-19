@@ -1,0 +1,35 @@
+Microsoft B-ORG
+reported O
+revenue B-METRIC
+of O
+56.2 B-VALUE
+billion I-VALUE
+in O
+Q1 B-DATE
+2024 I-DATE
+. O
+
+Apple B-ORG
+announced O
+net B-METRIC
+income I-METRIC
+of O
+20.7 B-VALUE
+billion I-VALUE
+for O
+FY B-DATE
+2023 I-DATE
+. O
+
+Microsoft B-ORG
+reported O
+profit B-METRIC
+of O
+$28B B-VALUE
+
+Apple B-ORG
+announced O
+Q1 B-DATE
+earnings O
+$10B B-VALUE
+

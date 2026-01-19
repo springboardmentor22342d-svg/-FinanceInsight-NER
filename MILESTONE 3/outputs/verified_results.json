@@ -1,0 +1,66 @@
+[
+    {
+        "company": "Apple",
+        "ticker": "AAPL",
+        "financial_entities": [
+            {
+                "EPS": {
+                    "extracted": "EPS of $2.50",
+                    "actual": 7.47
+                }
+            },
+            {
+                "REVENUE_GROWTH": {
+                    "extracted": "revenue grew by 10%",
+                    "actual": 0.079
+                }
+            }
+        ],
+        "financial_events": [
+            {
+                "event_type": "IPO",
+                "text": "IPO",
+                "date": "03/15/2026",
+                "verified": true
+            },
+            {
+                "event_type": "EARNINGS_CALL",
+                "text": "earnings call",
+                "date": "12/28/2025",
+                "verified": true
+            }
+        ]
+    },
+    {
+        "company": "Microsoft",
+        "ticker": "MSFT",
+        "financial_entities": [
+            {
+                "EPS": {
+                    "extracted": "EPS of $2.50",
+                    "actual": 14.08
+                }
+            },
+            {
+                "REVENUE_GROWTH": {
+                    "extracted": "revenue grew by 10%",
+                    "actual": 0.184
+                }
+            }
+        ],
+        "financial_events": [
+            {
+                "event_type": "IPO",
+                "text": "IPO",
+                "date": "03/15/2026",
+                "verified": true
+            },
+            {
+                "event_type": "EARNINGS_CALL",
+                "text": "earnings call",
+                "date": "12/28/2025",
+                "verified": true
+            }
+        ]
+    }
+]

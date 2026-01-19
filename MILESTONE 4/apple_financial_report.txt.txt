@@ -1,0 +1,35 @@
+APPLE INC.
+ANNUAL FINANCIAL REPORT 2023
+
+MANAGEMENT DISCUSSION AND ANALYSIS (MD&A)
+Apple Inc. reported strong financial performance in fiscal year 2023.
+Total revenue reached $383 billion driven by iPhone, Mac, iPad, and Services.
+Services revenue increased significantly due to App Store, iCloud, and Apple Music.
+Operating income improved due to cost optimization and strong product demand.
+
+RISK FACTORS
+Apple faces intense competition in the global smartphone and technology markets.
+Risks include supply chain disruptions, foreign exchange fluctuations,
+cybersecurity threats, and changes in government regulations.
+
+FINANCIAL STATEMENTS
+
+BALANCE SHEET
+Total Assets: 352,755
+Total Liabilities: 290,437
+Shareholders’ Equity: 62,318
+
+INCOME STATEMENT
+Revenue: 383 billion
+Operating Income: 114 billion
+Net Income: 97 billion
+
+CASH FLOW STATEMENT
+Operating Cash Flow: 110 billion
+Investing Cash Flow: -22 billion
+Financing Cash Flow: -108 billion
+
+NOTES
+The financial statements are prepared in accordance with U.S. GAAP.
+Figures are presented in USD and are audited.
+

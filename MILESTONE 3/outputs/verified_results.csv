@@ -1,0 +1,5 @@
+company,entity,extracted,actual
+Apple,EPS,EPS of $2.50,7.47
+Apple,REVENUE_GROWTH,revenue grew by 10%,0.079
+Microsoft,EPS,EPS of $2.50,14.08
+Microsoft,REVENUE_GROWTH,revenue grew by 10%,0.184

@@ -1,0 +1,37 @@
+[
+  {
+    "company": "Apple",
+    "metric": "revenue",
+    "value": "$383 billion",
+    "period": "2023",
+    "section": "MD&A"
+  },
+  {
+    "section": "Financial Statements",
+    "table_type": "Balance Sheet",
+    "rows": [
+      {
+        "Item": "Total Assets",
+        "Value": "351,000"
+      },
+      {
+        "Item": "Total Liabilities",
+        "Value": "287,000"
+      }
+    ]
+  },
+  {
+    "section": "Financial Statements",
+    "table_type": "Income Statement",
+    "rows": [
+      {
+        "Item": "Revenue",
+        "Value": "62 billion"
+      },
+      {
+        "Item": "Net Income",
+        "Value": "22 billion"
+      }
+    ]
+  }
+]

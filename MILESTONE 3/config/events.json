@@ -1,0 +1,6 @@
+{
+    "MERGER_ACQUISITION": ["merger", "acquisition", "acquires", "merges with"],
+    "STOCK_SPLIT": ["stock split", "splits stock", "split shares"],
+    "IPO": ["IPO", "initial public offering", "goes public"],
+    "EARNINGS_CALL": ["earnings call", "quarterly results", "Q1 results"]
+}
