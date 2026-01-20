@@ -1,0 +1,156 @@
+# Financial NER Extraction - Configuration File
+
+# Project Information
+project:
+  name: "Financial NER Extraction"
+  version: "1.0.0"
+  author: "Your Name"
+
+# Paths
+paths:
+  data_dir: "data"
+  raw_data: "data/raw"
+  processed_data: "data/processed"
+  models_dir: "models"
+  output_dir: "outputs"
+
+# Model Configuration
+model:
+  name: "finbert_ner"
+  base_model: "yiyanghkust/finbert-tone"
+  model_path: "models/finbert_ner"
+  max_length: 128
+  
+# Training Configuration
+training:
+  # Hyperparameters
+  batch_size: 16
+  learning_rate: 2.0e-5
+  num_epochs: 10
+  warmup_steps: 500
+  weight_decay: 0.01
+  seed: 42
+  
+  # Optimization
+  gradient_accumulation_steps: 1
+  max_grad_norm: 1.0
+  fp16: true  # Mixed precision training
+  
+  # Evaluation
+  eval_strategy: "epoch"
+  save_strategy: "epoch"
+  logging_steps: 100
+  eval_steps: 500
+  save_steps: 500
+  
+  # Early Stopping
+  early_stopping_patience: 3
+  load_best_model_at_end: true
+  metric_for_best_model: "f1"
+  
+  # Data Split
+  train_ratio: 0.8
+  val_ratio: 0.1
+  test_ratio: 0.1
+
+# NER Labels
+labels:
+  - "O"
+  - "B-ORG"
+  - "I-ORG"
+  - "B-PERSON"
+  - "I-PERSON"
+  - "B-MONEY"
+  - "I-MONEY"
+  - "B-PERCENT"
+  - "I-PERCENT"
+  - "B-DATE"
+  - "I-DATE"
+  - "B-GPE"
+  - "I-GPE"
+  - "B-PRODUCT"
+  - "I-PRODUCT"
+
+# Extraction Configuration
+extraction:
+  # PDF Processing
+  pdf:
+    extract_images: false
+    extract_tables: true
+    table_detection_strategy: "lattice"  # or "stream"
+  
+  # Section Detection
+  sections:
+    # Sections to detect and process
+    target_sections:
+      - "MD&A"
+      - "Management's Discussion and Analysis"
+      - "Financial Statements"
+      - "Risk Factors"
+      - "Business Overview"
+      - "Results of Operations"
+      - "Liquidity and Capital Resources"
+    
+    # Sections to skip
+    skip_sections:
+      - "Table of Contents"
+      - "Index"
+      - "Signatures"
+  
+  # NER Extraction
+  ner:
+    # Sections where NER should be applied
+    apply_to_sections:
+      - "MD&A"
+      - "Business Overview"
+      - "Results of Operations"
+      - "Risk Factors"
+      - "Unknown"
+    
+    # Minimum text length to process
+    min_text_length: 50
+    
+    # Chunk size for long texts
+    chunk_size: 2000
+    chunk_overlap: 200
+  
+  # Table Parsing
+  tables:
+    # Minimum rows for valid table
+    min_rows: 2
+    
+    # Known table types
+    table_types:
+      balance_sheet:
+        keywords: ["balance sheet", "financial position"]
+      income_statement:
+        keywords: ["income statement", "operations", "earnings"]
+      cash_flow:
+        keywords: ["cash flow"]
+      equity:
+        keywords: ["shareholders' equity", "stockholders' equity"]
+    
+    # Year detection pattern
+    year_pattern: '20\d{2}'
+
+# Output Configuration
+output:
+  format: "json"
+  indent: 2
+  ensure_ascii: false
+  
+  # Output structure
+  include:
+    document_info: true
+    narrative_insights: true
+    financial_tables: true
+    metadata: true
+    raw_sections: false  # Don't include full section text
+    raw_entities: false  # Don't include entity positions
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "extraction.log"
+  console: true

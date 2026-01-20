@@ -1,0 +1,2920 @@
+{
+  "document_info": {
+    "filename": "apple_10k_report.pdf",
+    "company": "Apple",
+    "fiscal_year": "Unknown",
+    "currency": "USD",
+    "extracted_at": "2026-01-09 02:40:53"
+  },
+  "narrative_insights": [
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    },
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    },
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    },
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    },
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    },
+    {
+      "section": "Risk Factors",
+      "company": null,
+      "metric": "Revenue",
+      "value": "$",
+      "period": null
+    }
+  ],
+  "financial_tables": [
+    {
+      "name": "Item 1. Business 1",
+      "type": "Other",
+      "page": 3,
+      "rows": [
+        {
+          "item": "Item 1A.",
+          "Business": "Risk Factors",
+          "1": "5"
+        },
+        {
+          "item": "Item 1B.",
+          "Business": "Unresolved Staff Comments",
+          "1": "17"
+        },
+        {
+          "item": "Item 1C.",
+          "Business": "Cybersecurity",
+          "1": "17"
+        },
+        {
+          "item": "Item 2.",
+          "Business": "Properties",
+          "1": "18"
+        },
+        {
+          "item": "Item 3.",
+          "Business": "Legal Proceedings",
+          "1": "18"
+        },
+        {
+          "item": "Item 4.",
+          "Business": "Mine Safety Disclosures",
+          "1": "18"
+        }
+      ]
+    },
+    {
+      "name": "Item 5. Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 19",
+      "type": "Other",
+      "page": 3,
+      "rows": [
+        {
+          "item": "Item 6.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "[Reserved]",
+          "19": "20"
+        },
+        {
+          "item": "Item 7.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Management’s Discussion and Analysis of Financial Condition and Results of Operations",
+          "19": "21"
+        },
+        {
+          "item": "Item 7A.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Quantitative and Qualitative Disclosures About Market Risk",
+          "19": "27"
+        },
+        {
+          "item": "Item 8.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Financial Statements and Supplementary Data",
+          "19": "28"
+        },
+        {
+          "item": "Item 9.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Changes in and Disagreements with Accountants on Accounting and Financial Disclosure",
+          "19": "51"
+        },
+        {
+          "item": "Item 9A.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Controls and Procedures",
+          "19": "51"
+        },
+        {
+          "item": "Item 9B.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Other Information",
+          "19": "52"
+        },
+        {
+          "item": "Item 9C.",
+          "Market for Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities": "Disclosure Regarding Foreign Jurisdictions that Prevent Inspections",
+          "19": "52"
+        }
+      ]
+    },
+    {
+      "name": "Open market and privately negotiated purchases  35,697  $ 224.11  35,697",
+      "type": "Other",
+      "page": 22,
+      "rows": [
+        {
+          "item": "Open market and privately negotiated purchases",
+          "35,697": "$",
+          "$": "42,910",
+          "224.11": ""
+        },
+        {
+          "item": "Open market and privately negotiated purchases",
+          "35,697": "$",
+          "$": "33,653",
+          "224.11": ""
+        },
+        {
+          "item": "Total",
+          "35,697": "",
+          "$": "112,260",
+          "224.11": ""
+        }
+      ]
+    },
+    {
+      "name": "S&P 500 Index  $ 100  $ 113  $ 156  $ 131  $ 155  $ 210",
+      "type": "Other",
+      "page": 23,
+      "rows": [
+        {
+          "item": "Dow Jones U.S. Technology Supersector Index",
+          "$": "$",
+          "100": "$",
+          "113": "",
+          "156": "146",
+          "131": "$",
+          "155": "",
+          "210": "156"
+        }
+      ]
+    },
+    {
+      "name": "Europe 101,328   7 %  94,294   (1) %  95,118",
+      "type": "Other",
+      "page": 25,
+      "rows": [
+        {
+          "item": "Greater China",
+          "101,328": "66,952",
+          "7": "",
+          "%": "",
+          "94,294": "(8)",
+          "(1)": "%",
+          "95,118": "72,559"
+        },
+        {
+          "item": "Japan",
+          "101,328": "25,052",
+          "7": "",
+          "%": "",
+          "94,294": "3",
+          "(1)": "%",
+          "95,118": "24,257"
+        },
+        {
+          "item": "Rest of Asia Pacific",
+          "101,328": "30,658",
+          "7": "",
+          "%": "",
+          "94,294": "4",
+          "(1)": "%",
+          "95,118": "29,615"
+        },
+        {
+          "item": "Total net sales",
+          "101,328": "$",
+          "7": "391,035",
+          "%": "",
+          "94,294": "2",
+          "(1)": "%",
+          "95,118": "$"
+        }
+      ]
+    },
+    {
+      "name": "Mac 29,984   2 %  29,357   (27) %  40,177",
+      "type": "Other",
+      "page": 26,
+      "rows": [
+        {
+          "item": "iPad",
+          "29,984": "26,694",
+          "2": "",
+          "%": "",
+          "29,357": "(6)",
+          "(27)": "%",
+          "40,177": "28,300"
+        },
+        {
+          "item": "Wearables, Home and Accessories",
+          "29,984": "37,005",
+          "2": "",
+          "%": "",
+          "29,357": "(7)",
+          "(27)": "%",
+          "40,177": "39,845"
+        },
+        {
+          "item": "Services (1)",
+          "29,984": "96,169",
+          "2": "",
+          "%": "",
+          "29,357": "13",
+          "(27)": "%",
+          "40,177": "85,200"
+        },
+        {
+          "item": "Total net sales",
+          "29,984": "$",
+          "2": "391,035",
+          "%": "",
+          "29,357": "2",
+          "(27)": "%",
+          "40,177": "$"
+        }
+      ]
+    },
+    {
+      "name": "Products $ 109,633  $ 108,803 $ 114,728",
+      "type": "Other",
+      "page": 27,
+      "rows": [
+        {
+          "item": "Services",
+          "$": "",
+          "109,633": "",
+          "108,803": "60,345",
+          "114,728": "56,054"
+        },
+        {
+          "item": "Total gross margin",
+          "$": "169,148",
+          "109,633": "180,683",
+          "108,803": "$",
+          "114,728": "$"
+        }
+      ]
+    },
+    {
+      "name": "Products 37.2 %  36.5 % 36.3 %",
+      "type": "Other",
+      "page": 27,
+      "rows": [
+        {
+          "item": "Services",
+          "37.2": "73.9",
+          "%": "71.7",
+          "36.5": "",
+          "36.3": "%"
+        },
+        {
+          "item": "Total gross margin percentage",
+          "37.2": "46.2",
+          "%": "43.3",
+          "36.5": "",
+          "36.3": "%"
+        }
+      ]
+    },
+    {
+      "name": "Percentage of total net sales 8  %     8  %   7  %",
+      "type": "Other",
+      "page": 27,
+      "rows": [
+        {
+          "item": "Selling, general and administrative",
+          "8": "",
+          "%": "%",
+          "7": "5"
+        },
+        {
+          "item": "Percentage of total net sales",
+          "8": "%",
+          "%": "",
+          "7": ""
+        },
+        {
+          "item": "Total operating expenses",
+          "8": "",
+          "%": "%",
+          "7": "5"
+        },
+        {
+          "item": "Percentage of total net sales",
+          "8": "%",
+          "%": "",
+          "7": ""
+        }
+      ]
+    },
+    {
+      "name": "Effective tax rate 24.1 %  14.7 %  16.2 %",
+      "type": "Other",
+      "page": 28,
+      "rows": [
+        {
+          "item": "Statutory federal income tax rate",
+          "24.1": "21",
+          "%": "",
+          "14.7": "",
+          "16.2": "%"
+        }
+      ]
+    },
+    {
+      "name": "Consolidated Statements of Comprehensive Income for the years ended September 28, 2024, September 30, 2023 and September 24, 2022  30",
+      "type": "Other",
+      "page": 31,
+      "rows": [
+        {
+          "item": "Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2024, September 30, 2023 and September 24, 2022",
+          "30": ""
+        },
+        {
+          "item": "Notes to Consolidated Financial Statements",
+          "30": ""
+        }
+      ]
+    },
+    {
+      "name": "Products $ 294,866  $ 298,085  $ 316,199",
+      "type": "Other",
+      "page": 32,
+      "rows": [
+        {
+          "item": "Services",
+          "$": "",
+          "294,866": "",
+          "298,085": "85,200",
+          "316,199": ""
+        },
+        {
+          "item": "Total net sales",
+          "$": "",
+          "294,866": "",
+          "298,085": "383,285",
+          "316,199": ""
+        },
+        {
+          "item": "Products",
+          "$": "",
+          "294,866": "",
+          "298,085": "189,282",
+          "316,199": ""
+        },
+        {
+          "item": "Services",
+          "$": "",
+          "294,866": "",
+          "298,085": "24,855",
+          "316,199": ""
+        },
+        {
+          "item": "Total cost of sales",
+          "$": "",
+          "294,866": "",
+          "298,085": "214,137",
+          "316,199": ""
+        },
+        {
+          "item": "Gross margin",
+          "$": "",
+          "294,866": "",
+          "298,085": "169,148",
+          "316,199": ""
+        },
+        {
+          "item": "Research and development",
+          "$": "",
+          "294,866": "",
+          "298,085": "29,915",
+          "316,199": ""
+        },
+        {
+          "item": "Selling, general and administrative",
+          "$": "",
+          "294,866": "",
+          "298,085": "24,932",
+          "316,199": ""
+        },
+        {
+          "item": "Total operating expenses",
+          "$": "",
+          "294,866": "",
+          "298,085": "54,847",
+          "316,199": ""
+        },
+        {
+          "item": "Operating income",
+          "$": "",
+          "294,866": "",
+          "298,085": "114,301",
+          "316,199": ""
+        },
+        {
+          "item": "Other income/(expense), net",
+          "$": "",
+          "294,866": "",
+          "298,085": "(565)",
+          "316,199": ""
+        },
+        {
+          "item": "Income before provision for income taxes",
+          "$": "",
+          "294,866": "",
+          "298,085": "113,736",
+          "316,199": ""
+        },
+        {
+          "item": "Provision for income taxes",
+          "$": "",
+          "294,866": "",
+          "298,085": "16,741",
+          "316,199": ""
+        },
+        {
+          "item": "Net income",
+          "$": "96,995",
+          "294,866": "93,736",
+          "298,085": "$",
+          "316,199": ""
+        },
+        {
+          "item": "Basic",
+          "$": "6.16",
+          "294,866": "6.11",
+          "298,085": "$",
+          "316,199": ""
+        },
+        {
+          "item": "Diluted",
+          "$": "6.13",
+          "294,866": "6.08",
+          "298,085": "$",
+          "316,199": ""
+        },
+        {
+          "item": "Basic",
+          "$": "",
+          "294,866": "",
+          "298,085": "15,744,231",
+          "316,199": ""
+        },
+        {
+          "item": "Diluted",
+          "$": "",
+          "294,866": "",
+          "298,085": "15,812,547",
+          "316,199": ""
+        }
+      ]
+    },
+    {
+      "name": "Other comprehensive income/(loss):",
+      "type": "Other",
+      "page": 33,
+      "rows": [
+        {
+          "item": "Change in foreign currency translation, net of tax",
+          "Col1": "395",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(765)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(1,511)",
+          "Col8": ""
+        },
+        {
+          "item": "Change in fair value of derivative instruments",
+          "Col1": "(832)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "323",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "3,212",
+          "Col8": ""
+        },
+        {
+          "item": "Adjustment for net (gains)/losses realized and included in net income",
+          "Col1": "(1,337)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,717)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(1,074)",
+          "Col8": ""
+        },
+        {
+          "item": "Total change in unrealized gains/losses on derivative instruments",
+          "Col1": "(2,169)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,394)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "2,138",
+          "Col8": ""
+        },
+        {
+          "item": "Change in fair value of marketable debt securities",
+          "Col1": "5,850",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "1,563",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(12,104)",
+          "Col8": ""
+        },
+        {
+          "item": "Adjustment for net (gains)/losses realized and included in net income",
+          "Col1": "204",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "253",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "205",
+          "Col8": ""
+        },
+        {
+          "item": "Total change in unrealized gains/losses on marketable debt securities",
+          "Col1": "6,054",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "1,816",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(11,899)",
+          "Col8": ""
+        },
+        {
+          "item": "Total other comprehensive income/(loss)",
+          "Col1": "4,280",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(343)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(11,272)",
+          "Col8": ""
+        },
+        {
+          "item": "Total comprehensive income",
+          "Col1": "$",
+          "Col2": "98,016",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "96,652",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "88,531"
+        }
+      ]
+    },
+    {
+      "name": "Cash and cash equivalents",
+      "type": "Other",
+      "page": 34,
+      "rows": [
+        {
+          "item": "Cash and cash equivalents",
+          "Col1": "$",
+          "Col2": "29,943",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "29,965"
+        },
+        {
+          "item": "Marketable securities",
+          "Col1": "35,228",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "31,590",
+          "Col5": ""
+        },
+        {
+          "item": "Accounts receivable, net",
+          "Col1": "33,410",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "29,508",
+          "Col5": ""
+        },
+        {
+          "item": "Vendor non-trade receivables",
+          "Col1": "32,833",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "31,477",
+          "Col5": ""
+        },
+        {
+          "item": "Inventories",
+          "Col1": "7,286",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "6,331",
+          "Col5": ""
+        },
+        {
+          "item": "Other current assets",
+          "Col1": "14,287",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "14,695",
+          "Col5": ""
+        },
+        {
+          "item": "Total current assets",
+          "Col1": "152,987",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "143,566",
+          "Col5": ""
+        },
+        {
+          "item": "Marketable securities",
+          "Col1": "91,479",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "100,544",
+          "Col5": ""
+        },
+        {
+          "item": "Property, plant and equipment, net",
+          "Col1": "45,680",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "43,715",
+          "Col5": ""
+        },
+        {
+          "item": "Other non-current assets",
+          "Col1": "74,834",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "64,758",
+          "Col5": ""
+        },
+        {
+          "item": "Total non-current assets",
+          "Col1": "211,993",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "209,017",
+          "Col5": ""
+        },
+        {
+          "item": "Total assets",
+          "Col1": "$",
+          "Col2": "364,980",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "352,583"
+        },
+        {
+          "item": "Accounts payable",
+          "Col1": "$",
+          "Col2": "68,960",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "62,611"
+        },
+        {
+          "item": "Other current liabilities",
+          "Col1": "78,304",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "58,829",
+          "Col5": ""
+        },
+        {
+          "item": "Deferred revenue",
+          "Col1": "8,249",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "8,061",
+          "Col5": ""
+        },
+        {
+          "item": "Commercial paper",
+          "Col1": "9,967",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "5,985",
+          "Col5": ""
+        },
+        {
+          "item": "Term debt",
+          "Col1": "10,912",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "9,822",
+          "Col5": ""
+        },
+        {
+          "item": "Total current liabilities",
+          "Col1": "176,392",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "145,308",
+          "Col5": ""
+        },
+        {
+          "item": "Term debt",
+          "Col1": "85,750",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "95,281",
+          "Col5": ""
+        },
+        {
+          "item": "Other non-current liabilities",
+          "Col1": "45,888",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "49,848",
+          "Col5": ""
+        },
+        {
+          "item": "Total non-current liabilities",
+          "Col1": "131,638",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "145,129",
+          "Col5": ""
+        },
+        {
+          "item": "Total liabilities",
+          "Col1": "308,030",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "290,437",
+          "Col5": ""
+        },
+        {
+          "item": "Common stock and additional paid-in capital, $0.00001 par value: 50,400,000 shares authorized; 15,116,786\nand 15,550,061 shares issued and outstanding, respectively",
+          "Col1": "83,276",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "73,812",
+          "Col5": ""
+        },
+        {
+          "item": "Accumulated deficit",
+          "Col1": "(19,154)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(214)",
+          "Col5": ""
+        },
+        {
+          "item": "Accumulated other comprehensive loss",
+          "Col1": "(7,172)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(11,452)",
+          "Col5": ""
+        },
+        {
+          "item": "Total shareholders’ equity",
+          "Col1": "56,950",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "62,146",
+          "Col5": ""
+        },
+        {
+          "item": "Total liabilities and shareholders’ equity",
+          "Col1": "$",
+          "Col2": "364,980",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "352,583"
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 35,
+      "rows": [
+        {
+          "item": "Beginning balances",
+          "Col1": "73,812",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "64,849",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "57,365",
+          "Col8": ""
+        },
+        {
+          "item": "Common stock issued",
+          "Col1": "1,423",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "1,346",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "1,175",
+          "Col8": ""
+        },
+        {
+          "item": "Common stock withheld related to net share settlement of equity awards",
+          "Col1": "(3,993)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(3,521)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(2,971)",
+          "Col8": ""
+        },
+        {
+          "item": "Share-based compensation",
+          "Col1": "12,034",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "11,138",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "9,280",
+          "Col8": ""
+        },
+        {
+          "item": "Ending balances",
+          "Col1": "83,276",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "73,812",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "64,849",
+          "Col8": ""
+        },
+        {
+          "item": "Beginning balances",
+          "Col1": "(214)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(3,068)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "5,562",
+          "Col8": ""
+        },
+        {
+          "item": "Net income",
+          "Col1": "93,736",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "96,995",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "99,803",
+          "Col8": ""
+        },
+        {
+          "item": "Dividends and dividend equivalents declared",
+          "Col1": "(15,218)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(14,996)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(14,793)",
+          "Col8": ""
+        },
+        {
+          "item": "Common stock withheld related to net share settlement of equity awards",
+          "Col1": "(1,612)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(2,099)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(3,454)",
+          "Col8": ""
+        },
+        {
+          "item": "Common stock repurchased",
+          "Col1": "(95,846)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(77,046)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(90,186)",
+          "Col8": ""
+        },
+        {
+          "item": "Ending balances",
+          "Col1": "(19,154)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(214)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(3,068)",
+          "Col8": ""
+        },
+        {
+          "item": "Beginning balances",
+          "Col1": "(11,452)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(11,109)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "163",
+          "Col8": ""
+        },
+        {
+          "item": "Other comprehensive income/(loss)",
+          "Col1": "4,280",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(343)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(11,272)",
+          "Col8": ""
+        },
+        {
+          "item": "Ending balances",
+          "Col1": "(7,172)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(11,452)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(11,109)",
+          "Col8": ""
+        },
+        {
+          "item": "Total shareholders’ equity, ending balances",
+          "Col1": "$",
+          "Col2": "56,950",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "62,146",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "50,672"
+        },
+        {
+          "item": "Dividends and dividend equivalents declared per share or RSU",
+          "Col1": "$",
+          "Col2": "0.98",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "0.94",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "0.90"
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 36,
+      "rows": [
+        {
+          "item": "Net income",
+          "Col1": "93,736",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "96,995",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "99,803",
+          "Col8": ""
+        },
+        {
+          "item": "Depreciation and amortization",
+          "Col1": "11,445",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "11,519",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "11,104",
+          "Col8": ""
+        },
+        {
+          "item": "Share-based compensation expense",
+          "Col1": "11,688",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "10,833",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "9,038",
+          "Col8": ""
+        },
+        {
+          "item": "Other",
+          "Col1": "(2,266)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(2,227)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "1,006",
+          "Col8": ""
+        },
+        {
+          "item": "Accounts receivable, net",
+          "Col1": "(3,788)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,688)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(1,823)",
+          "Col8": ""
+        },
+        {
+          "item": "Vendor non-trade receivables",
+          "Col1": "(1,356)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "1,271",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(7,520)",
+          "Col8": ""
+        },
+        {
+          "item": "Inventories",
+          "Col1": "(1,046)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,618)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "1,484",
+          "Col8": ""
+        },
+        {
+          "item": "Other current and non-current assets",
+          "Col1": "(11,731)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(5,684)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(6,499)",
+          "Col8": ""
+        },
+        {
+          "item": "Accounts payable",
+          "Col1": "6,020",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,889)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "9,448",
+          "Col8": ""
+        },
+        {
+          "item": "Other current and non-current liabilities",
+          "Col1": "15,552",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "3,031",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "6,110",
+          "Col8": ""
+        },
+        {
+          "item": "Cash generated by operating activities",
+          "Col1": "118,254",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "110,543",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "122,151",
+          "Col8": ""
+        },
+        {
+          "item": "Purchases of marketable securities",
+          "Col1": "(48,656)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(29,513)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(76,923)",
+          "Col8": ""
+        },
+        {
+          "item": "Proceeds from maturities of marketable securities",
+          "Col1": "51,211",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "39,686",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "29,917",
+          "Col8": ""
+        },
+        {
+          "item": "Proceeds from sales of marketable securities",
+          "Col1": "11,135",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "5,828",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "37,446",
+          "Col8": ""
+        },
+        {
+          "item": "Payments for acquisition of property, plant and equipment",
+          "Col1": "(9,447)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(10,959)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(10,708)",
+          "Col8": ""
+        },
+        {
+          "item": "Other",
+          "Col1": "(1,308)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(1,337)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(2,086)",
+          "Col8": ""
+        },
+        {
+          "item": "Cash generated by/(used in) investing activities",
+          "Col1": "2,935",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "3,705",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(22,354)",
+          "Col8": ""
+        },
+        {
+          "item": "Payments for taxes related to net share settlement of equity awards",
+          "Col1": "(5,441)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(5,431)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(6,223)",
+          "Col8": ""
+        },
+        {
+          "item": "Payments for dividends and dividend equivalents",
+          "Col1": "(15,234)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(15,025)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(14,841)",
+          "Col8": ""
+        },
+        {
+          "item": "Repurchases of common stock",
+          "Col1": "(94,949)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(77,550)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(89,402)",
+          "Col8": ""
+        },
+        {
+          "item": "Proceeds from issuance of term debt, net",
+          "Col1": "—",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "5,228",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "5,465",
+          "Col8": ""
+        },
+        {
+          "item": "Repayments of term debt",
+          "Col1": "(9,958)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(11,151)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(9,543)",
+          "Col8": ""
+        },
+        {
+          "item": "Proceeds from/(Repayments of) commercial paper, net",
+          "Col1": "3,960",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(3,978)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "3,955",
+          "Col8": ""
+        },
+        {
+          "item": "Other",
+          "Col1": "(361)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(581)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(160)",
+          "Col8": ""
+        },
+        {
+          "item": "Cash used in financing activities",
+          "Col1": "(121,983)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "(108,488)",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(110,749)",
+          "Col8": ""
+        },
+        {
+          "item": "Increase/(Decrease) in cash, cash equivalents, and restricted cash and cash equivalents",
+          "Col1": "(794)",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "5,760",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(10,952)",
+          "Col8": ""
+        },
+        {
+          "item": "Cash, cash equivalents, and restricted cash and cash equivalents, ending balances",
+          "Col1": "$",
+          "Col2": "29,943",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "30,737",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "24,977"
+        },
+        {
+          "item": "Cash paid for income taxes, net",
+          "Col1": "$",
+          "Col2": "26,102",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "18,679",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "19,573"
+        }
+      ]
+    },
+    {
+      "name": "Mac 29,984   29,357   40,177",
+      "type": "Other",
+      "page": 38,
+      "rows": [
+        {
+          "item": "iPad",
+          "29,984": "26,694",
+          "29,357": "",
+          "40,177": ""
+        },
+        {
+          "item": "Wearables, Home and Accessories",
+          "29,984": "37,005",
+          "29,357": "",
+          "40,177": ""
+        },
+        {
+          "item": "Services (1)",
+          "29,984": "96,169",
+          "29,357": "",
+          "40,177": ""
+        },
+        {
+          "item": "Total net sales",
+          "29,984": "$",
+          "29,357": "391,035",
+          "40,177": ""
+        }
+      ]
+    },
+    {
+      "name": "Net income $ 93,736  $ 96,995  $ 99,803",
+      "type": "Other",
+      "page": 39,
+      "rows": [
+        {
+          "item": "Weighted-average basic shares outstanding",
+          "$": "",
+          "93,736": "",
+          "96,995": "15,744,231",
+          "99,803": ""
+        },
+        {
+          "item": "Effect of dilutive share-based awards",
+          "$": "",
+          "93,736": "",
+          "96,995": "68,316",
+          "99,803": ""
+        },
+        {
+          "item": "Weighted-average diluted shares",
+          "$": "",
+          "93,736": "",
+          "96,995": "15,812,547",
+          "99,803": ""
+        },
+        {
+          "item": "Basic earnings per share",
+          "$": "6.16",
+          "93,736": "6.11",
+          "96,995": "$",
+          "99,803": ""
+        },
+        {
+          "item": "Diluted earnings per share",
+          "$": "6.13",
+          "93,736": "6.08",
+          "96,995": "$",
+          "99,803": ""
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 39,
+      "rows": [
+        {
+          "item": "Money market funds",
+          "Col1": "778",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "—",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "—",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "778",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "778",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "—",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "—",
+          "Col20": ""
+        },
+        {
+          "item": "Mutual funds",
+          "Col1": "515",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "105",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(3)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "617",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "—",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "617",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "—",
+          "Col20": ""
+        },
+        {
+          "item": "Subtotal",
+          "Col1": "1,293",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "105",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(3)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "1,395",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "778",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "617",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "—",
+          "Col20": ""
+        },
+        {
+          "item": "U.S. Treasury securities",
+          "Col1": "16,150",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "45",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(516)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "15,679",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "212",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "4,087",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "11,380",
+          "Col20": ""
+        },
+        {
+          "item": "U.S. agency securities",
+          "Col1": "5,431",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "—",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(272)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "5,159",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "155",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "703",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "4,301",
+          "Col20": ""
+        },
+        {
+          "item": "Non-U.S. government securities",
+          "Col1": "17,959",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "93",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(484)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "17,568",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "1,158",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "10,810",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "5,600",
+          "Col20": ""
+        },
+        {
+          "item": "Certificates of deposit and time deposits",
+          "Col1": "873",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "—",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "—",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "873",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "387",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "478",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "8",
+          "Col20": ""
+        },
+        {
+          "item": "Commercial paper",
+          "Col1": "1,066",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "—",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "—",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "1,066",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "28",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "1,038",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "—",
+          "Col20": ""
+        },
+        {
+          "item": "Corporate debt securities",
+          "Col1": "65,622",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "270",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(1,953)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "63,939",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "26",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "16,027",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "47,886",
+          "Col20": ""
+        },
+        {
+          "item": "Municipal securities",
+          "Col1": "412",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "—",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(7)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "405",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "—",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "190",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "215",
+          "Col20": ""
+        },
+        {
+          "item": "Mortgage- and asset-backed securities",
+          "Col1": "24,595",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "175",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(1,403)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "23,367",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "—",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "1,278",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "22,089",
+          "Col20": ""
+        },
+        {
+          "item": "Subtotal",
+          "Col1": "132,108",
+          "Col2": "",
+          "Col3": "",
+          "Col4": "583",
+          "Col5": "",
+          "Col6": "",
+          "Col7": "(4,635)",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "128,056",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "1,966",
+          "Col14": "",
+          "Col15": "",
+          "Col16": "34,611",
+          "Col17": "",
+          "Col18": "",
+          "Col19": "91,479",
+          "Col20": ""
+        },
+        {
+          "item": "Total (2)(3)",
+          "Col1": "$",
+          "Col2": "160,600",
+          "Col3": "",
+          "Col4": "$",
+          "Col5": "688",
+          "Col6": "",
+          "Col7": "$",
+          "Col8": "(4,638)",
+          "Col9": "",
+          "Col10": "$",
+          "Col11": "156,650",
+          "Col12": "",
+          "Col13": "$",
+          "Col14": "29,943",
+          "Col15": "",
+          "Col16": "$",
+          "Col17": "35,228",
+          "Col18": "",
+          "Col19": "$",
+          "Col20": "91,479"
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 40,
+      "rows": [
+        {
+          "item": "Money market funds",
+          "Col1": "481",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "—",
+          "Col6": "",
+          "Col7": "481",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "481",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "—",
+          "Col14": "",
+          "Col15": "—",
+          "Col16": ""
+        },
+        {
+          "item": "Mutual funds and equity securities",
+          "Col1": "442",
+          "Col2": "",
+          "Col3": "12",
+          "Col4": "",
+          "Col5": "(26)",
+          "Col6": "",
+          "Col7": "428",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "—",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "428",
+          "Col14": "",
+          "Col15": "—",
+          "Col16": ""
+        },
+        {
+          "item": "Subtotal",
+          "Col1": "923",
+          "Col2": "",
+          "Col3": "12",
+          "Col4": "",
+          "Col5": "(26)",
+          "Col6": "",
+          "Col7": "909",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "481",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "428",
+          "Col14": "",
+          "Col15": "—",
+          "Col16": ""
+        },
+        {
+          "item": "U.S. Treasury securities",
+          "Col1": "19,406",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "(1,292)",
+          "Col6": "",
+          "Col7": "18,114",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "35",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "5,468",
+          "Col14": "",
+          "Col15": "12,611",
+          "Col16": ""
+        },
+        {
+          "item": "U.S. agency securities",
+          "Col1": "5,736",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "(600)",
+          "Col6": "",
+          "Col7": "5,136",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "36",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "271",
+          "Col14": "",
+          "Col15": "4,829",
+          "Col16": ""
+        },
+        {
+          "item": "Non-U.S. government securities",
+          "Col1": "17,533",
+          "Col2": "",
+          "Col3": "6",
+          "Col4": "",
+          "Col5": "(1,048)",
+          "Col6": "",
+          "Col7": "16,491",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "—",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "11,332",
+          "Col14": "",
+          "Col15": "5,159",
+          "Col16": ""
+        },
+        {
+          "item": "Certificates of deposit and time deposits",
+          "Col1": "1,354",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "—",
+          "Col6": "",
+          "Col7": "1,354",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "1,034",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "320",
+          "Col14": "",
+          "Col15": "—",
+          "Col16": ""
+        },
+        {
+          "item": "Commercial paper",
+          "Col1": "608",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "—",
+          "Col6": "",
+          "Col7": "608",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "—",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "608",
+          "Col14": "",
+          "Col15": "—",
+          "Col16": ""
+        },
+        {
+          "item": "Corporate debt securities",
+          "Col1": "76,840",
+          "Col2": "",
+          "Col3": "6",
+          "Col4": "",
+          "Col5": "(5,956)",
+          "Col6": "",
+          "Col7": "70,890",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "20",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "12,627",
+          "Col14": "",
+          "Col15": "58,243",
+          "Col16": ""
+        },
+        {
+          "item": "Municipal securities",
+          "Col1": "628",
+          "Col2": "",
+          "Col3": "—",
+          "Col4": "",
+          "Col5": "(26)",
+          "Col6": "",
+          "Col7": "602",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "—",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "192",
+          "Col14": "",
+          "Col15": "410",
+          "Col16": ""
+        },
+        {
+          "item": "Mortgage- and asset-backed securities",
+          "Col1": "22,365",
+          "Col2": "",
+          "Col3": "6",
+          "Col4": "",
+          "Col5": "(2,735)",
+          "Col6": "",
+          "Col7": "19,636",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "—",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "344",
+          "Col14": "",
+          "Col15": "19,292",
+          "Col16": ""
+        },
+        {
+          "item": "Subtotal",
+          "Col1": "144,470",
+          "Col2": "",
+          "Col3": "18",
+          "Col4": "",
+          "Col5": "(11,657)",
+          "Col6": "",
+          "Col7": "132,831",
+          "Col8": "",
+          "Col9": "",
+          "Col10": "1,125",
+          "Col11": "",
+          "Col12": "",
+          "Col13": "31,162",
+          "Col14": "",
+          "Col15": "100,544",
+          "Col16": ""
+        },
+        {
+          "item": "Total (3)",
+          "Col1": "$",
+          "Col2": "173,752",
+          "Col3": "$",
+          "Col4": "30",
+          "Col5": "$",
+          "Col6": "(11,683)",
+          "Col7": "$",
+          "Col8": "162,099",
+          "Col9": "",
+          "Col10": "$",
+          "Col11": "29,965",
+          "Col12": "",
+          "Col13": "$",
+          "Col14": "31,590",
+          "Col15": "$",
+          "Col16": "100,544"
+        }
+      ]
+    },
+    {
+      "name": "Foreign exchange contracts $ 64,069  $ 74,730",
+      "type": "Other",
+      "page": 41,
+      "rows": [
+        {
+          "item": "Interest rate contracts",
+          "$": "",
+          "64,069": "14,575",
+          "74,730": "$"
+        },
+        {
+          "item": "Foreign exchange contracts",
+          "$": "",
+          "64,069": "91,493",
+          "74,730": "$"
+        }
+      ]
+    },
+    {
+      "name": "Current and non-current marketable securities $ —  $ 14,433",
+      "type": "Other",
+      "page": 41,
+      "rows": [
+        {
+          "item": "Current and non-current term debt",
+          "$": "",
+          "—": "(13,505)",
+          "14,433": "$"
+        }
+      ]
+    },
+    {
+      "name": "Machinery, equipment and internal-use software 80,205   78,314",
+      "type": "Other",
+      "page": 42,
+      "rows": [
+        {
+          "item": "Leasehold improvements",
+          "80,205": "14,233",
+          "78,314": ""
+        },
+        {
+          "item": "Gross property, plant and equipment",
+          "80,205": "119,128",
+          "78,314": ""
+        },
+        {
+          "item": "Accumulated depreciation",
+          "80,205": "(73,448)",
+          "78,314": ""
+        },
+        {
+          "item": "Total property, plant and equipment, net",
+          "80,205": "$",
+          "78,314": "45,680"
+        }
+      ]
+    },
+    {
+      "name": "Other non-current assets 55,335   46,906",
+      "type": "Other",
+      "page": 42,
+      "rows": [
+        {
+          "item": "Total other non-current assets",
+          "55,335": "$",
+          "46,906": "74,834"
+        }
+      ]
+    },
+    {
+      "name": "Other current liabilities 51,703   50,010",
+      "type": "Other",
+      "page": 42,
+      "rows": [
+        {
+          "item": "Total other current liabilities",
+          "51,703": "$",
+          "50,010": "78,304"
+        }
+      ]
+    },
+    {
+      "name": "Other non-current liabilities 36,634   34,391",
+      "type": "Other",
+      "page": 42,
+      "rows": [
+        {
+          "item": "Total other non-current liabilities",
+          "36,634": "$",
+          "34,391": "45,888"
+        }
+      ]
+    },
+    {
+      "name": "Current $ 5,571  $ 9,445  $ 7,890",
+      "type": "Other",
+      "page": 43,
+      "rows": [
+        {
+          "item": "Deferred",
+          "$": "",
+          "5,571": "",
+          "9,445": "(3,644)",
+          "7,890": ""
+        },
+        {
+          "item": "Total",
+          "$": "",
+          "5,571": "",
+          "9,445": "5,801",
+          "7,890": ""
+        },
+        {
+          "item": "Current",
+          "$": "",
+          "5,571": "",
+          "9,445": "1,570",
+          "7,890": ""
+        },
+        {
+          "item": "Deferred",
+          "$": "",
+          "5,571": "",
+          "9,445": "(49)",
+          "7,890": ""
+        },
+        {
+          "item": "Total",
+          "$": "",
+          "5,571": "",
+          "9,445": "1,521",
+          "7,890": ""
+        },
+        {
+          "item": "Current",
+          "$": "",
+          "5,571": "",
+          "9,445": "8,750",
+          "7,890": ""
+        },
+        {
+          "item": "Deferred",
+          "$": "",
+          "5,571": "",
+          "9,445": "669",
+          "7,890": ""
+        },
+        {
+          "item": "Total",
+          "$": "",
+          "5,571": "",
+          "9,445": "9,419",
+          "7,890": ""
+        },
+        {
+          "item": "Provision for income taxes",
+          "$": "16,741",
+          "5,571": "29,749",
+          "9,445": "$",
+          "7,890": ""
+        }
+      ]
+    },
+    {
+      "name": "State taxes, net of federal effect 1,162    1,124   1,518",
+      "type": "Other",
+      "page": 43,
+      "rows": [
+        {
+          "item": "Impact of the State Aid Decision",
+          "1,162": "10,246",
+          "1,124": "",
+          "1,518": ""
+        },
+        {
+          "item": "Earnings of foreign subsidiaries",
+          "1,162": "(5,311)",
+          "1,124": "",
+          "1,518": ""
+        },
+        {
+          "item": "Research and development credit, net",
+          "1,162": "(1,397)",
+          "1,124": "",
+          "1,518": ""
+        },
+        {
+          "item": "Excess tax benefits from equity awards",
+          "1,162": "(893)",
+          "1,124": "",
+          "1,518": ""
+        },
+        {
+          "item": "Other",
+          "1,162": "10",
+          "1,124": "",
+          "1,518": ""
+        },
+        {
+          "item": "Provision for income taxes",
+          "1,162": "$",
+          "1,124": "29,749",
+          "1,518": ""
+        },
+        {
+          "item": "Effective tax rate",
+          "1,162": "24.1",
+          "1,124": "",
+          "1,518": "%"
+        }
+      ]
+    },
+    {
+      "name": "Capitalized research and development $ 10,739  $ 6,294",
+      "type": "Other",
+      "page": 44,
+      "rows": [
+        {
+          "item": "Tax credit carryforwards",
+          "$": "",
+          "10,739": "",
+          "6,294": "8,302"
+        },
+        {
+          "item": "Accrued liabilities and other reserves",
+          "$": "",
+          "10,739": "",
+          "6,294": "6,365"
+        },
+        {
+          "item": "Deferred revenue",
+          "$": "",
+          "10,739": "",
+          "6,294": "4,571"
+        },
+        {
+          "item": "Lease liabilities",
+          "$": "",
+          "10,739": "",
+          "6,294": "2,421"
+        },
+        {
+          "item": "Unrealized losses",
+          "$": "",
+          "10,739": "",
+          "6,294": "2,447"
+        },
+        {
+          "item": "Other",
+          "$": "",
+          "10,739": "",
+          "6,294": "2,343"
+        },
+        {
+          "item": "Total deferred tax assets",
+          "$": "",
+          "10,739": "",
+          "6,294": "32,743"
+        },
+        {
+          "item": "Less: Valuation allowance",
+          "$": "",
+          "10,739": "",
+          "6,294": "(8,374)"
+        },
+        {
+          "item": "Total deferred tax assets, net",
+          "$": "",
+          "10,739": "",
+          "6,294": "24,369"
+        },
+        {
+          "item": "Depreciation",
+          "$": "",
+          "10,739": "",
+          "6,294": "1,998"
+        },
+        {
+          "item": "Right-of-use assets",
+          "$": "",
+          "10,739": "",
+          "6,294": "2,179"
+        },
+        {
+          "item": "Minimum tax on foreign earnings",
+          "$": "",
+          "10,739": "",
+          "6,294": "1,940"
+        },
+        {
+          "item": "Unrealized gains",
+          "$": "",
+          "10,739": "",
+          "6,294": "511"
+        },
+        {
+          "item": "Other",
+          "$": "",
+          "10,739": "",
+          "6,294": "490"
+        },
+        {
+          "item": "Total deferred tax liabilities",
+          "$": "",
+          "10,739": "",
+          "6,294": "7,118"
+        },
+        {
+          "item": "Net deferred tax assets",
+          "$": "",
+          "10,739": "19,202",
+          "6,294": "$"
+        }
+      ]
+    },
+    {
+      "name": "Increases related to tax positions taken during a prior year 1,727   2,044   2,284",
+      "type": "Other",
+      "page": 44,
+      "rows": [
+        {
+          "item": "Decreases related to tax positions taken during a prior year",
+          "1,727": "(386)",
+          "2,044": "",
+          "2,284": ""
+        },
+        {
+          "item": "Increases related to tax positions taken during the current year",
+          "1,727": "2,542",
+          "2,044": "",
+          "2,284": ""
+        },
+        {
+          "item": "Decreases related to settlements with taxing authorities",
+          "1,727": "(1,070)",
+          "2,044": "",
+          "2,284": ""
+        },
+        {
+          "item": "Decreases related to expiration of the statute of limitations",
+          "1,727": "(229)",
+          "2,044": "",
+          "2,284": ""
+        },
+        {
+          "item": "Ending balances",
+          "1,727": "$",
+          "2,044": "22,038",
+          "2,284": ""
+        }
+      ]
+    },
+    {
+      "name": "Operating leases  Other non-current assets  $ 10,234 $ 10,661",
+      "type": "Other",
+      "page": 45,
+      "rows": [
+        {
+          "item": "Finance leases",
+          "Other non-current assets": "",
+          "$": "1,069",
+          "10,234": "",
+          "10,661": ""
+        },
+        {
+          "item": "Total right-of-use assets",
+          "Other non-current assets": "",
+          "$": "$",
+          "10,234": "",
+          "10,661": "11,303"
+        },
+        {
+          "item": "Operating leases",
+          "Other non-current assets": "",
+          "$": "$",
+          "10,234": "",
+          "10,661": "1,488"
+        },
+        {
+          "item": "Finance leases",
+          "Other non-current assets": "",
+          "$": "144",
+          "10,234": "",
+          "10,661": ""
+        },
+        {
+          "item": "Total lease liabilities",
+          "Other non-current assets": "",
+          "$": "$",
+          "10,234": "",
+          "10,661": "12,430"
+        }
+      ]
+    },
+    {
+      "name": "2026 1,914   131   2,045",
+      "type": "Other",
+      "page": 45,
+      "rows": [
+        {
+          "item": "2027",
+          "1,914": "1,674",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "2028",
+          "1,914": "1,360",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "2029",
+          "1,914": "1,187",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "Thereafter",
+          "1,914": "5,563",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "Total undiscounted liabilities",
+          "1,914": "13,518",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "Less: Imputed interest",
+          "1,914": "(1,984)",
+          "131": "",
+          "2,045": ""
+        },
+        {
+          "item": "Total lease liabilities",
+          "1,914": "$",
+          "131": "11,534",
+          "2,045": ""
+        }
+      ]
+    },
+    {
+      "name": "Proceeds from/(Repayments of) commercial paper, net $ 3,960  $ (1,333)  $ 5,264",
+      "type": "Other",
+      "page": 46,
+      "rows": [
+        {
+          "item": "Proceeds from commercial paper",
+          "$": "",
+          "3,960": "",
+          "(1,333)": "—",
+          "5,264": ""
+        },
+        {
+          "item": "Repayments of commercial paper",
+          "$": "",
+          "3,960": "",
+          "(1,333)": "(2,645)",
+          "5,264": ""
+        },
+        {
+          "item": "Proceeds from/(Repayments of) commercial paper, net",
+          "$": "",
+          "3,960": "",
+          "(1,333)": "(2,645)",
+          "5,264": ""
+        },
+        {
+          "item": "Total proceeds from/(repayments of) commercial paper, net",
+          "$": "(3,978)",
+          "3,960": "3,960",
+          "(1,333)": "$",
+          "5,264": ""
+        }
+      ]
+    },
+    {
+      "name": "Fixed-rate 0.000% – 4.850% notes 2024 – 2062  $ 97,341  0.03% – 6.65%  $ 106,572  0.03% – 6.72%",
+      "type": "Other",
+      "page": 46,
+      "rows": [
+        {
+          "item": "Total term debt principal",
+          "2024": "",
+          "$": "",
+          "97,341": "97,341",
+          "0.03% – 6.65%": "",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        },
+        {
+          "item": "Unamortized premium/(discount) and issuance costs, net",
+          "2024": "",
+          "$": "",
+          "97,341": "(321)",
+          "0.03% – 6.65%": "",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        },
+        {
+          "item": "Hedge accounting fair value adjustments",
+          "2024": "",
+          "$": "",
+          "97,341": "(358)",
+          "0.03% – 6.65%": "",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        },
+        {
+          "item": "Total term debt",
+          "2024": "",
+          "$": "",
+          "97,341": "96,662",
+          "0.03% – 6.65%": "",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        },
+        {
+          "item": "Less: Current portion of term debt",
+          "2024": "",
+          "$": "",
+          "97,341": "(10,912)",
+          "0.03% – 6.65%": "",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        },
+        {
+          "item": "Total non-current portion of term debt",
+          "2024": "",
+          "$": "",
+          "97,341": "$",
+          "0.03% – 6.65%": "85,750",
+          "106,572": "",
+          "0.03% – 6.72%": ""
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 46,
+      "rows": [
+        {
+          "item": "2026",
+          "$": "12,342",
+          "10,930": ""
+        },
+        {
+          "item": "2027",
+          "$": "9,936",
+          "10,930": ""
+        },
+        {
+          "item": "2028",
+          "$": "7,800",
+          "10,930": ""
+        },
+        {
+          "item": "2029",
+          "$": "5,153",
+          "10,930": ""
+        },
+        {
+          "item": "Thereafter",
+          "$": "51,180",
+          "10,930": ""
+        },
+        {
+          "item": "Total term debt principal",
+          "$": "$",
+          "10,930": "97,341"
+        }
+      ]
+    },
+    {
+      "name": "Common stock repurchased (499,372)  (471,419)  (568,589)",
+      "type": "Other",
+      "page": 47,
+      "rows": [
+        {
+          "item": "Common stock issued, net of shares withheld for employee taxes",
+          "(499,372)": "66,097",
+          "(471,419)": "",
+          "(568,589)": "78,055"
+        },
+        {
+          "item": "Common stock outstanding, ending balances",
+          "(499,372)": "15,116,786",
+          "(471,419)": "",
+          "(568,589)": "15,550,061"
+        }
+      ]
+    },
+    {
+      "name": "RSUs granted 91,674  $ 150.70",
+      "type": "Other",
+      "page": 48,
+      "rows": [
+        {
+          "item": "RSUs vested",
+          "91,674": "(115,861)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs canceled",
+          "91,674": "(14,739)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "Balance as of September 24, 2022",
+          "91,674": "201,501",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs granted",
+          "91,674": "88,768",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs vested",
+          "91,674": "(101,878)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs canceled",
+          "91,674": "(8,144)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "Balance as of September 30, 2023",
+          "91,674": "180,247",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs granted",
+          "91,674": "80,456",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs vested",
+          "91,674": "(87,633)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "RSUs canceled",
+          "91,674": "(9,744)",
+          "$": "",
+          "150.70": "$"
+        },
+        {
+          "item": "Balance as of September 28, 2024",
+          "91,674": "163,326",
+          "$": "",
+          "150.70": "$"
+        }
+      ]
+    },
+    {
+      "name": "Financial Table",
+      "type": "Other",
+      "page": 48,
+      "rows": [
+        {
+          "item": "2027",
+          "2,440": "1,156"
+        },
+        {
+          "item": "2028",
+          "2,440": "3,121"
+        },
+        {
+          "item": "2029",
+          "2,440": "633"
+        },
+        {
+          "item": "Thereafter",
+          "2,440": "670"
+        },
+        {
+          "item": "Total",
+          "2,440": "$"
+        }
+      ]
+    },
+    {
+      "name": "Net sales $ 167,045  $ 162,560  $ 169,658",
+      "type": "Other",
+      "page": 50,
+      "rows": [
+        {
+          "item": "Operating income",
+          "$": "60,508",
+          "167,045": "67,656",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Net sales",
+          "$": "94,294",
+          "167,045": "101,328",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Operating income",
+          "$": "36,098",
+          "167,045": "41,790",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Net sales",
+          "$": "72,559",
+          "167,045": "66,952",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Operating income",
+          "$": "30,328",
+          "167,045": "27,082",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Net sales",
+          "$": "24,257",
+          "167,045": "25,052",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Operating income",
+          "$": "11,888",
+          "167,045": "12,454",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Net sales",
+          "$": "29,615",
+          "167,045": "30,658",
+          "162,560": "$",
+          "169,658": ""
+        },
+        {
+          "item": "Operating income",
+          "$": "12,066",
+          "167,045": "13,062",
+          "162,560": "$",
+          "169,658": ""
+        }
+      ]
+    },
+    {
+      "name": "Research and development expense (31,370)   (29,915)   (26,251)",
+      "type": "Other",
+      "page": 50,
+      "rows": [
+        {
+          "item": "Other corporate expenses, net (1)",
+          "(31,370)": "(7,458)",
+          "(29,915)": "",
+          "(26,251)": ""
+        },
+        {
+          "item": "Total operating income",
+          "(31,370)": "$",
+          "(29,915)": "123,216",
+          "(26,251)": ""
+        }
+      ]
+    },
+    {
+      "name": "U.S. $ 142,196  $ 138,573  $ 147,859",
+      "type": "Other",
+      "page": 50,
+      "rows": [
+        {
+          "item": "China (1)",
+          "$": "",
+          "142,196": "",
+          "138,573": "72,559",
+          "147,859": ""
+        },
+        {
+          "item": "Other countries",
+          "$": "",
+          "142,196": "",
+          "138,573": "172,153",
+          "147,859": ""
+        },
+        {
+          "item": "Total net sales",
+          "$": "383,285",
+          "142,196": "391,035",
+          "138,573": "$",
+          "147,859": ""
+        }
+      ]
+    },
+    {
+      "name": "U.S. $ 35,664  $ 33,276",
+      "type": "Other",
+      "page": 50,
+      "rows": [
+        {
+          "item": "China (1)",
+          "$": "",
+          "35,664": "",
+          "33,276": "5,778"
+        },
+        {
+          "item": "Other countries",
+          "$": "",
+          "35,664": "",
+          "33,276": "4,661"
+        },
+        {
+          "item": "Total long-lived assets",
+          "$": "",
+          "35,664": "45,680",
+          "33,276": "$"
+        }
+      ]
+    },
+    {
+      "name": "Consolidated Statements of Comprehensive Income for the years ended September 28, 2024, September 30, 2023 and September 24, 2022  30",
+      "type": "Other",
+      "page": 56,
+      "rows": [
+        {
+          "item": "Consolidated Statements of Shareholders’ Equity for the years ended September 28, 2024, September 30, 2023 and September 24, 2022",
+          "30": ""
+        },
+        {
+          "item": "Notes to Consolidated Financial Statements",
+          "30": ""
+        }
+      ]
+    },
+    {
+      "name": "Fiscal Quarter Trading Window Closed and\nTrading Restrictions Begin Trading Restrictions End and Trading Window Opens",
+      "type": "Other",
+      "page": 111,
+      "rows": [
+        {
+          "item": "1st",
+          "Trading Window Closed and\nTrading Restrictions Begin": "December 1",
+          "Trading Restrictions End and Trading Window Opens": "24 hours after public disclosure of first-quarter results (typically early February)"
+        },
+        {
+          "item": "2nd",
+          "Trading Window Closed and\nTrading Restrictions Begin": "March 1",
+          "Trading Restrictions End and Trading Window Opens": "24 hours after public disclosure of second-quarter results (typically early May)"
+        },
+        {
+          "item": "3rd",
+          "Trading Window Closed and\nTrading Restrictions Begin": "June 1",
+          "Trading Restrictions End and Trading Window Opens": "24 hours after public disclosure of third-quarter results (typically early August)"
+        },
+        {
+          "item": "4th",
+          "Trading Window Closed and\nTrading Restrictions Begin": "September 1",
+          "Trading Restrictions End and Trading Window Opens": "24 hours after public disclosure of year-end results (typically early November)"
+        }
+      ]
+    },
+    {
+      "name": "Apple Asia LLC Delaware, U.S.",
+      "type": "Other",
+      "page": 114,
+      "rows": [
+        {
+          "item": "Apple Canada Inc.",
+          "Delaware, U.S.": "Canada"
+        },
+        {
+          "item": "Apple Computer Trading (Shanghai) Co., Ltd.",
+          "Delaware, U.S.": "China"
+        },
+        {
+          "item": "Apple Distribution International Limited",
+          "Delaware, U.S.": "Ireland"
+        },
+        {
+          "item": "Apple India Private Limited",
+          "Delaware, U.S.": "India"
+        },
+        {
+          "item": "Apple Insurance Company, Inc.",
+          "Delaware, U.S.": "Arizona, U.S."
+        },
+        {
+          "item": "Apple Japan, Inc.",
+          "Delaware, U.S.": "Japan"
+        },
+        {
+          "item": "Apple Korea Limited",
+          "Delaware, U.S.": "South Korea"
+        },
+        {
+          "item": "Apple Operations International Limited",
+          "Delaware, U.S.": "Ireland"
+        },
+        {
+          "item": "Apple Operations Limited",
+          "Delaware, U.S.": "Ireland"
+        },
+        {
+          "item": "Apple Operations Mexico, S.A. de C.V.",
+          "Delaware, U.S.": "Mexico"
+        },
+        {
+          "item": "Apple Pty Limited",
+          "Delaware, U.S.": "Australia"
+        },
+        {
+          "item": "Apple Sales International Limited",
+          "Delaware, U.S.": "Ireland"
+        },
+        {
+          "item": "Apple South Asia (Thailand) Limited",
+          "Delaware, U.S.": "Thailand"
+        },
+        {
+          "item": "Apple Vietnam Limited Liability Company",
+          "Delaware, U.S.": "Vietnam"
+        },
+        {
+          "item": "Braeburn Capital, Inc.",
+          "Delaware, U.S.": "Nevada, U.S."
+        },
+        {
+          "item": "iTunes K.K.",
+          "Delaware, U.S.": "Japan"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "total_sections": 5,
+    "entities_extracted": 67,
+    "tables_parsed": 45,
+    "extracted_at": "2026-01-09T02:40:53.721075"
+  }
+}
